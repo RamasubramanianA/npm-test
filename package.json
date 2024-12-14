@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ennbook/htmlcli": "^1.0.0"
+  }
+}
